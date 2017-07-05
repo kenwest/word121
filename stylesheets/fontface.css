@@ -1,0 +1,41 @@
+@import url("//hello.myfonts.net/count/27e333");
+
+@font-face{
+	font-family:"LindseyPro";
+	src: url('webfonts/27E333_1_0.eot');
+	src: url('webfonts/27E333_1_0.eot?#iefix') format('embedded-opentype'),
+		url('webfonts/27E333_1_0.woff') format('woff'),
+		url('webfonts/27E333_1_0.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face{
+	font-family: 'LindseyPro';
+	src: url('webfonts/27E333_0_0.eot');
+	src: url('webfonts/27E333_0_0.eot?#iefix') format('embedded-opentype'),
+		url('webfonts/27E333_0_0.woff') format('woff'),
+		url('webfonts/27E333_0_0.ttf') format('truetype');
+	font-weight: normal;
+	font-style:normal;
+}
+
+@font-face{
+	font-family: 'QuattroTempi';
+	src: url('webfonts/27E333_3_0.eot');
+	src: url('webfonts/27E333_3_0.eot?#iefix') format('embedded-opentype'),
+		url('webfonts/27E333_3_0.woff') format('woff'),
+		url('webfonts/27E333_3_0.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face{
+	font-family: 'QuattroTempi';
+	src: url('webfonts/27E333_2_0.eot');
+	src: url('webfonts/27E333_2_0.eot?#iefix') format('embedded-opentype'),
+		url('webfonts/27E333_2_0.woff') format('woff'),
+		url('webfonts/27E333_2_0.ttf') format('truetype');
+	font-weight: normal;
+	font-style:normal;
+}
